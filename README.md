@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Upasana Khatiwada</h1>
 <h3 align="center">A passionate learner from Nepal</h3>
 
-<img align="center" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47gc5g4o907ci6e1wzrsm4ip7iab7fxkvb949y7iog&rid=giphy.gif&ct=g">
+<img align="center" alt="coding" width="500" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47gc5g4o907ci6e1wzrsm4ip7iab7fxkvb949y7iog&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upasana-khatiwada&label=Profile%20views&color=0e75b6&style=flat" alt="upasana-khatiwada" /> </p>
 
